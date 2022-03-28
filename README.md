@@ -100,7 +100,8 @@
       // ---------- Me as Person ---------- //
       countryOfOrigin: "Poland",
       currentResidence: "Boston, MA",
-      funFacts: ["I have an 11-year old eclectus parrot named Kiwiw", "I enjoy reading manga and watch anime", "veteran Genshin Impact player"],
+      funFacts: ["I have an 11-year old eclectus parrot named Kiwiw", "I enjoy reading manga and watch anime", 
+                  "veteran Genshin Impact player"],
       }
   };
   ```
