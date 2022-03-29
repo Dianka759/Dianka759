@@ -1,11 +1,11 @@
 <div style="font-family: 'Fira Code iscript', 'Roboto'">
   <!-- BANNER LINK TO PORTFOLIO -->
   <p align="center">
-    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F820506093323026445.gif%3Fv%3D1&w=64&q=75" height="40">
+    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F820506093323026445.gif%3Fv%3D1&w=64&q=75" height="40"/>
     <a href="https://dianka759.github.io"> ~ Check out my Portfolio! ~ </a>
-    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F820506093323026445.gif%3Fv%3D1&w=64&q=75" height="40">
+    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F820506093323026445.gif%3Fv%3D1&w=64&q=75" height="40"/>
     <br>
-    <img src="https://media.discordapp.net/attachments/911095800334016575/957763693293228032/papers.co-bj18-art-room-anime-monsters-space-night-35-3840x2160-4k-wallpaper_-_Copy-overlay_1.jpg?width=1085&height=573" width="700"> 
+    <img src="https://media.discordapp.net/attachments/911095800334016575/957763693293228032/papers.co-bj18-art-room-anime-monsters-space-night-35-3840x2160-4k-wallpaper_-_Copy-overlay_1.jpg?width=1085&height=573" width="700"/> 
   </p>
   
 <!--   <p align="center">
@@ -20,7 +20,7 @@
   </p>
 
 <!-- TECH LANGUAGES & TOOLS -->
-  <h2 align="center">Technologies <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F906828915052539915.png%3Fv%3D1&w=64&q=75" width=40"></h2>
+  <h2 align="center">Technologies <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F906828915052539915.png%3Fv%3D1&w=64&q=75" width="40"/></h2>
   
   <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,31 +45,31 @@
   </p>
 
   <h2 align="center">
-    Github Stats <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F585449831791591424.png%3Fv%3D1&w=64&q=75" width="40">
+    Github Stats <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F585449831791591424.png%3Fv%3D1&w=64&q=75" width="40"/>
   </h2>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianka759&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" width="400"/>
   </p>   
   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianka759&show_icons=true&theme=tokyonight&line_height=27">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianka759&theme=tokyonight&hide=html,css">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianka759&show_icons=true&theme=tokyonight&line_height=27"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianka759&theme=tokyonight&hide=html,css"/>
   </p>
   <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=dianka759&theme=tokyonight" width="800">
+   <img src="https://activity-graph.herokuapp.com/graph?username=dianka759&theme=tokyonight" width="800"/>
   </p>
 
   <!-- ABOUT ME -->
-   <h2 align="center"> <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F840543122927779850.gif%3Fv%3D1&w=64&q=75" width="50"> A few things about me... <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F840543122927779850.gif%3Fv%3D1&w=64&q=75" width="50">
+   <h2 align="center"> <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F840543122927779850.gif%3Fv%3D1&w=64&q=75" width="50"/> A few things about me... <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F840543122927779850.gif%3Fv%3D1&w=64&q=75" width="50"/>
     </h2>
   
   
 <p>     
-    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20">
-    <b>Languages</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20">: Hyper Text Markup Language (HTML), Cascading Style Sheets (CSS), JavaScript (ES5, ES6), Python, Java <br>
-    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"><b>Frameworks/Libraries</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20">: React, Express, Node, Flask, JSP, Spring / Spring Boot, Spring Security, Bootstrap, Material UI <br>
-<img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"><b>Databases</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20">: MongoDB, MySQL <br>
-    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"><b>IDE</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20">: Visual Studio Code, Spring Tools Suite <br>
-    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"><b>Other Concepts</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20">: APIs, RESTful APIs, AWS, Bcrypt, Git (GitHub), MVC, OOP, REST, Postman <br>
+    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/>
+    <b>Languages</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/>: Hyper Text Markup Language (HTML), Cascading Style Sheets (CSS), JavaScript (ES5, ES6), Python, Java <br>
+    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/><b>Frameworks/Libraries</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/>: React, Express, Node, Flask, JSP, Spring / Spring Boot, Spring Security, Bootstrap, Material UI <br>
+<img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/><b>Databases</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/>: MongoDB, MySQL <br>
+    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/><b>IDE</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/>: Visual Studio Code, Spring Tools Suite <br>
+    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/><b>Other Concepts</b><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F875112532166209577.gif%3Fv%3D1&w=64&q=75" height="20"/>: APIs, RESTful APIs, AWS, Bcrypt, Git (GitHub), MVC, OOP, REST, Postman <br>
 </p>
     
   ```javascript
@@ -100,7 +100,7 @@
       // ---------- Me as Person ---------- //
       countryOfOrigin: "Poland",
       currentResidence: "Boston, MA",
-      funFacts: ["I have an 11-year old eclectus parrot named Kiwiw", "I enjoy reading manga and watch anime", 
+      funFacts: ["I have an 11-year old eclectus parrot named Kiwi", "I enjoy reading manga and watch anime", 
                   "veteran Genshin Impact player"],
       }
   };
@@ -108,8 +108,8 @@
   
   <!-- CONTACT -->
   <h2 align="center">
-  <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F887815199296462888.gif%3Fv%3D1&w=64&q=75" width="40">
-   Connect with me <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F887815199296462888.gif%3Fv%3D1&w=64&q=75" width="40"></h2>
+  <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F887815199296462888.gif%3Fv%3D1&w=64&q=75" width="40"/>
+   Connect with me <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F887815199296462888.gif%3Fv%3D1&w=64&q=75" width="40"/></h2>
   
   <p align="center">
   <a href="mailto: dianka759@gmail.com">
@@ -121,7 +121,7 @@
   </p>
 <div align="center">
   <img src="https://c.tenor.com/QLh0PhunTj8AAAAC/anime-typing.gif" frameBorder="0" style="border-radius: 5px"/> <br>
-         <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F876995723902746685.gif%3Fv%3D1&w=64&q=75">
+         <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F876995723902746685.gif%3Fv%3D1&w=64&q=75"/>
 
   </div>
   
