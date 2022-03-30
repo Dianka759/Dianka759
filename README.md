@@ -2,7 +2,7 @@
   <!-- BANNER LINK TO PORTFOLIO -->
   <p align="center">
     <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F820506093323026445.gif%3Fv%3D1&w=64&q=75" height="40"/>
-    <a href="https://dianka759.github.io"> ~ Check out my Portfolio! ~ </a>
+    <a href="https://dianka759.github.io" target="_blank"> ~ Check out my Portfolio! ~ </a>
     <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F820506093323026445.gif%3Fv%3D1&w=64&q=75" height="40"/>
     <br>
     <img src="https://media.discordapp.net/attachments/911095800334016575/957763693293228032/papers.co-bj18-art-room-anime-monsters-space-night-35-3840x2160-4k-wallpaper_-_Copy-overlay_1.jpg?width=1085&height=573" width="700"/> 
