@@ -7,16 +7,18 @@
     <br>
     <img src="https://media.discordapp.net/attachments/911095800334016575/957763693293228032/papers.co-bj18-art-room-anime-monsters-space-night-35-3840x2160-4k-wallpaper_-_Copy-overlay_1.jpg?width=1085&height=573" width="700"/> 
   </p>
-  
+
 <!--   <p align="center">
   <img src="https://c.tenor.com/5w-9jXbOxeMAAAAC/cute-bird-banner.gif" >
   </p> -->
   
   <!-- VISITS BADGES -->
   <p align="center">
-   <img src="https://badges.pufler.dev/visits/dianka759/dianka759"/>
+   <!-- <img src="https://badges.pufler.dev/visits/dianka759/dianka759"/>
    <img src="https://badges.pufler.dev/repos/dianka759"/>
    <img src="https://badges.pufler.dev/commits/monthly/dianka759" />
+    --> 
+   <img src="https://komarev.com/ghpvc/?username=dianka759&color=blueviolet" alt="dianka759" /> 
   </p>
 
 <!-- TECH LANGUAGES & TOOLS -->
@@ -88,16 +90,21 @@
               members: ["self", "Jennifer Ehala", "Violet Szewczyk"],
               frontEnd: "server rendered JSP",
               backEnd: "Java Spring Boot",
-              database: "MySQL",
+              database: "MySQL"
           },
           TheCodingDojoClone: {
               members: ["self", "Jennifer Ehala", "Violet Szewczyk"],
               frontEnd: "React",
-              backEnd: "Express/NodeJS",
-              database: "MongoDB",
+              backEnd: "Express/NodeJS/Mongoose",
+              database: "MongoDB"
           },
+          Hackathon2022: {
+              members: ["self", "Jennifer Ehala", "Violet Szewczyk", "Winter Perrone", "George Tran", "Chad"],
+              frontEnd: "React",
+              backEnd: "Express/NodeJS/Mongoose",
+              database: "MongoDB"
       },
-      // ---------- Me as Person ---------- //
+      // ---------- Me as a Person ---------- //
       countryOfOrigin: "Poland",
       currentResidence: "Boston, MA",
       funFacts: ["I have an 11-year old eclectus parrot named Kiwi", "I enjoy reading manga and watch anime", 
