@@ -52,13 +52,13 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianka759&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" width="400"/>
   </p>   
-  <p align="center">
+<!--   <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianka759&show_icons=true&theme=tokyonight&line_height=27"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianka759&theme=tokyonight&hide=html,css"/>
-  </p>
-  <p align="center">
+  </p> -->
+<!--   <p align="center">
    <img src="https://activity-graph.herokuapp.com/graph?username=dianka759&theme=tokyonight" width="800"/>
-  </p>
+  </p> -->
 
   <!-- ABOUT ME -->
    <h2 align="center"> <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F840543122927779850.gif%3Fv%3D1&w=64&q=75" width="50"/> A few things about me... <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F840543122927779850.gif%3Fv%3D1&w=64&q=75" width="50"/>
