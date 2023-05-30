@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/-Markdown-0e99da?style=for-the-badge&logo=markdown"/>
   <img src="https://img.shields.io/badge/-GitHub-483D8B?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/-Amazon AWS-E98610?style=for-the-badge&logo=amazonaws"/>
+<!--   <img src="https://img.shields.io/badge/-Amazon AWS-E98610?style=for-the-badge&logo=amazonaws"/> -->
   </p>
 
   <h2 align="center">
@@ -107,8 +107,8 @@
       // ---------- Me as a Person ---------- //
       countryOfOrigin: "Poland",
       currentResidence: "Boston, MA",
-      funFacts: ["I have an 11-year old eclectus parrot named Kiwi", "I enjoy reading manga and watch anime", 
-                  "veteran Genshin Impact player"],
+      funFacts: ["I have an 11-year old eclectus parrot named Kiwi🦜 and a pom named Sakura🐕🌸", "I enjoy reading manga and watch anime📚📺", 
+                  "veteran Genshin Impact player🎮"],
       }
   };
   ```
