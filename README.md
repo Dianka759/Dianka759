@@ -77,7 +77,7 @@
   ```javascript
   const diana = {
       pronouns: "She" | "Her",
-      askMeAbout: ["web dev", "anime", "genshin/honkai],
+      askMeAbout: ["web dev", "anime", "genshin/honkai"],
       currentFocus: ["Find a job as a software developer", "keep working on projects"],
       ongoingProjects: {
           TheCodingKiwi: {
